@@ -1,0 +1,5 @@
+com\amdocs\training\model\User.class
+com\amdocs\training\dao\impl\UserDAOImpl.class
+com\amdocs\training\util\DBUtil.class
+com\amdocs\training\controller\UserController.class
+com\amdocs\training\dao\UserDAO.class
